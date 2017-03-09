@@ -1,0 +1,10 @@
+.coverage
+.cache
+*.pyc
+*~
+__pycache__
+venv/*
+docs/*
+!docs/*.pdf
+!docs/*.tex
+.ipynb_checkpoints
